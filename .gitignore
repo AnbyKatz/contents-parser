@@ -1,1 +1,5 @@
 downloads/*
+.venv/*
+contents_parser.egg-info/*
+.vscode/*
+*.pyc
